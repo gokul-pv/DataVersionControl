@@ -32,11 +32,11 @@ DVC's features can be grouped into functional components:
 
 **Data Versioning**
 
-<img src="https://github.com/gokul-pv/EMLO_Assignmet_Session1/blob/main/Images/data_versioning.jpg" style="zoom: 80%;" />
+![](https://github.com/gokul-pv/EMLO_Assignmet_Session1/blob/master/Images/data_versioning.jpg)
 
 DVC lets us capture the versions of our data and models in git commits,  while storing them on-premises or in cloud storage. It also provides a  mechanism to switch between these different components. The result is a  single history for data, code and ML models that we can traverse. 
 
-<img src="https://github.com/gokul-pv/EMLO_Assignmet_Session1/blob/main/Images/project_versioning.jpg" style="zoom:80%;" />
+![](https://github.com/gokul-pv/EMLO_Assignmet_Session1/blob/master/Images/project_versioning.jpg)
 
 ## Preparation
 
