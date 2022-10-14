@@ -1,4 +1,4 @@
-# EMLO_Assignment_Session1
+# Data Version Control
 Trying out DVC with Git
 
 ## Objective
@@ -32,11 +32,11 @@ DVC's features can be grouped into functional components:
 
 **Data Versioning**
 
-![](https://github.com/gokul-pv/EMLO_Assignmet_Session1/blob/master/Images/data_versioning.jpg)
+![](https://github.com/gokul-pv/DataVersionControl/blob/master/Images/data_versioning.jpg)
 
 DVC lets us capture the versions of our data and models in git commits,  while storing them on-premises or in cloud storage. It also provides a  mechanism to switch between these different components. The result is a  single history for data, code and ML models that we can traverse. 
 
-![](https://github.com/gokul-pv/EMLO_Assignmet_Session1/blob/master/Images/project_versioning.jpg)
+![](https://github.com/gokul-pv/DataVersionControl/blob/master/Images/project_versioning.jpg)
 
 ## Preparation
 
